@@ -47,6 +47,11 @@ a:hover{
 	position: left;
 }
 
+.pic{
+	position: left;
+	margin-left: -20%;
+}
+
 body{
 	background: url("http://40.media.tumblr.com/a454c47128c43e5a43c6944b252ee3b9/tumblr_nkxg68TCJa1shjn8co1_1280.png") fixed no-repeat bottom right;
 	background-size: 50% 100%;
