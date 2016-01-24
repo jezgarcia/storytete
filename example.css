@@ -84,3 +84,12 @@ body{
 	display: block;
 	text-align: left center;
 }
+
+::-webkit-scrollbar {
+   	width: 6px;
+   	background: #474747;
+}
+
+::-webkit-scrollbar-thumb {
+   background: orange;
+}
